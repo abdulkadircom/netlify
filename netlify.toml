@@ -13,7 +13,7 @@ LANDING_PAGE = "home"
 LANDING_TITLE = "My Second Brain"
 PYTHON_VERSION = "3.8"
 # Site repo URL
-REPO_URL = "https://github.com/ppeetteerrs/obsidian-zola"
+REPO_URL = "https://github.com/abdulkadircom/netlify"
 # Site title in navbar
 SITE_TITLE = "my home notes"
 # Site URL
