@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chart Types.md",
+            "file": "modern data stack.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chart Types.md",
+                "file": "modern data stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,9 +101,9 @@
   },
   "active": "ccbbe3512b1d2e8d",
   "lastOpenFiles": [
-    "Chart Types.md",
     "modern data stack.md",
-    "monolithic data infrastructure.md",
-    "home.md"
+    "Chart Types.md",
+    "home.md",
+    "monolithic data infrastructure.md"
   ]
 }
