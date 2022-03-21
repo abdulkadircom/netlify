@@ -17,7 +17,7 @@ REPO_URL = "https://github.com/abdulkadircom/netlify"
 # Site title in navbar
 SITE_TITLE = "my home notes"
 # Site URL
-SITE_URL = ""
+SITE_URL = "https://abdulkadircom.netlify.app/"
 # Site Timezone
 TIMEZONE = "Europe/Istanbul"
 ZOLA_VERSION = "0.15.2"
